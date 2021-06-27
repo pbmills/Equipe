@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: 10c87caa-8a87-40ad-ac88-567a3bd54a57 # Common
+handle: phone
+instructions: ''
+name: Phone
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

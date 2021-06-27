@@ -1,0 +1,14 @@
+contentColumnType: string
+fieldGroup: 98ea3415-9bac-4f81-b6db-18fb78de2c27 # default
+handle: featureBlock
+instructions: ''
+name: 'Feature Block'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_featureblock}}'
+  maxBlocks: '1'
+  minBlocks: ''
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

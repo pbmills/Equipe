@@ -1,0 +1,14 @@
+contentColumnType: string
+fieldGroup: 98ea3415-9bac-4f81-b6db-18fb78de2c27 # default
+handle: ourValues
+instructions: ''
+name: 'Our Values'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_ourvalues}}'
+  maxBlocks: ''
+  minBlocks: ''
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

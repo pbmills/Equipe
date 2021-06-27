@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'tobias';
+    src:  url('./fonts/Tobias-Light.woff') format('woff'),
+          url('./fonts/Tobias-Light.woff2') format('woff2');
+  }
